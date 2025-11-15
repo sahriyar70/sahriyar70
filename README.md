@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm AL - SAHRIYAR</h1>
+<h1 align="center"> I'm AL - SAHRIYAR</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahriyar70&label=Profile%20views&color=0e75b6&style=flat" alt="sahriyar70" /> </p>
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **alsahriyar229@gmail.com**
+- 📫  Reach me **alsahriyar229@gmail.com**
 
 - ⚡ Fun fact **I think I am self learner**
 
