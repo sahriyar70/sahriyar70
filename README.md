@@ -1,5 +1,7 @@
 <h1 align="center"> I'm AL - SAHRIYAR</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahriyar70&label=Profile%20views&color=0e75b6&style=flat" alt="sahriyar70" /> </p>
+
 
 
 
