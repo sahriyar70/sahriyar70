@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **web Development,with React.Js and Learning Backend**
+- 🌱 I’m currently learning **Learning Backend Node.js, TypeScript, PostgreSQL, Prisma**
 
 - 💬 Ask me about **React**
 
