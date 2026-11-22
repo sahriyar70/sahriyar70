@@ -5,7 +5,14 @@
 
 
 
-- 🌱 I’m currently learning **Learning Backend Node.js, TypeScript, PostgreSQL, Prisma**
+- 🌱 I’m currently learning **Learning Backend Node.js, TypeScript, PostgreSQL, Prisma | Networking & CCNA
+
+VLAN, Routing, Switching, Packet Tracer
+
+
+Cybersecurity
+
+SOC, Splunk, EDR, Nmap, Wireshark**
 
 - 💬 Ask me about **React**
 
